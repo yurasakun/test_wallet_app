@@ -1,0 +1,69 @@
+[
+  {
+    "type" : "payment",
+    "total" : 200,
+    "name" : "Payments",
+    "description" : "Card number used",
+    "pending" : true,
+    "date": "21.03.2023",
+    "auth_user" : "Mark"
+  },
+  {
+    "type" : "payment",
+    "total" : 232.71,
+    "name" : "Privat",
+    "description" : "Send cost from Privat",
+    "pending" : false,
+    "date": "21.01.2023"
+  },
+  {
+    "type" : "payment",
+    "total" : 15.45,
+    "name" : "IKEA",
+    "description" : "Card number used",
+    "pending" : false,
+    "date": "21.02.2023"
+  },
+  {
+    "type" : "credit",
+    "total" : 1345.45,
+    "name" : "Apple",
+    "description" : "Card number used",
+    "pending" : false,
+    "date": "20.03.2023"
+
+  },
+  {
+    "type" : "credit",
+    "total" : 215.45,
+    "name" : "ATB",
+    "description" : "Card number used",
+    "pending" : true,
+    "date": "22.03.2023"
+  },
+  {
+    "type" : "payment",
+    "total" : 1345,
+    "name" : "Banks",
+    "description" : "Card number used",
+    "pending" : true,
+    "date": "23.03.2023"
+  },
+  {
+    "type" : "payment",
+    "total" : 1312.05,
+    "name" : "Banks",
+    "description" : "Card number used by font to front",
+    "pending" : false,
+    "date": "17.03.2023"
+  },
+  {
+    "type" : "payment",
+    "total" : 1.23,
+    "name" : "Target",
+    "description" : "Card number used",
+    "pending" : false,
+    "auth_user" : "Claus",
+    "date": "21.03.2023"
+  }
+]

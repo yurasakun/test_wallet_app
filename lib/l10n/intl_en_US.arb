@@ -1,0 +1,33 @@
+{
+  "@@locale": "en_US",
+  "cardBalance": "Card Balance",
+  "currentBalance": "${formattedNumber}",
+  "availableBalance": "${formattedNumber} Available",
+  "dailyPointTitle": "Daily Points",
+  "paymentDueTitle": "No Payment Due",
+  "paymentDueDescription": "You`ve paid your {month} balance.",
+  "@paymentDueDescription": {
+    "placeholders": {
+      "month": {
+        "type": "String",
+        "example": "September"
+      }
+    }
+  },
+  "titleTransaction" : "Latest Transactions",
+  "pendingTitle" : "Pending{separate}",
+  "@pendingTitle": {
+    "placeholders": {
+      "separate": {
+        "type": "String",
+        "example": " - "
+      }
+    }
+  },
+  "approvedTitle": "Approved",
+  "percentageValue" : "3%",
+  "tomorrow" : "Tomorrow",
+  "yesterday": "Yesterday",
+  "today" : "Today",
+  "totalTitle" : "Total"
+}
