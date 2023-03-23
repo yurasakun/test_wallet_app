@@ -30,7 +30,7 @@ class FormatsValue {
     } else if (_getWeakFromDate(date) == _getWeakFromDate(today)) {
       format = DateFormat('EEEE').format(date);
     } else {
-      format = DateFormat('dd/MM/yy').format(date);
+      format = DateFormat('dd/M/yy').format(date);
     }
     return format;
   }
